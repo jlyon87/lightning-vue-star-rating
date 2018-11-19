@@ -1,6 +1,6 @@
 <template>
-  <div class="container">
-    Testing
+  <div>
+    <star-rating />
   </div>
 </template>
 
